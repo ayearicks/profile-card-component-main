@@ -1,1 +1,30 @@
-/* No CSS *//*# sourceMappingURL=style.css.map */
+/* Global Styles */
+:root {
+  /* Primary */
+  --DarkCyan: hsl(185, 75%, 39%);
+  --VeryDarkBlue: hsl(229, 23%, 23%);
+  --GrayBlue: hsl(227, 10%, 46%);
+  /* Neutral */
+  --DarkGray: hsl(0, 0%, 59%);
+}
+
+body {
+  font-size: 18px;
+  background-color: #19a2ae;
+  background-image: url(/images/bg-pattern-bottom.svg);
+  background-image: url(/images/bg-pattern-top.svg);
+}
+
+main {
+  background-image: url(/images/bg-pattern-card.svg);
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: #3e52a3;
+}
+/*# sourceMappingURL=style.css.map */

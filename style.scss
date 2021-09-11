@@ -1,0 +1,23 @@
+/* Global Styles */
+:root {
+    /* Primary */
+    --DarkCyan: hsl(185, 75%, 39%);
+    --VeryDarkBlue: hsl(229, 23%, 23%);
+    --GrayBlue: hsl(227, 10%, 46%);
+    /* Neutral */
+    --DarkGray: hsl(0, 0%, 59%);
+}
+
+body {
+    font-size: 18px;
+    background-color:hsl(185, 75%, 39%);
+    background-image: url(/images/bg-pattern-bottom.svg);
+    background-image: url(/images/bg-pattern-top.svg);
+}
+
+main {
+    background-image: url(/images/bg-pattern-card.svg);
+}
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
