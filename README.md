@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshots
 
-<img src="/images/mobile.png.png" width="200"> <img src="/images/desktop.png.png" width="600">
+<img src="/images/mobile.png" width="200"> <img src="/images/desktop.png" width="600">
 
 
 
