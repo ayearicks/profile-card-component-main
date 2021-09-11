@@ -26,15 +26,15 @@ Users should be able to:
 
 ### Screenshots
 
-<img src="images/mobile.png.png" width="200"> <img src="images/desktop.png.png" width="600">
+<img src="/images/mobile.png.png" width="200"> <img src="/images/desktop.png.png" width="600">
 
 
 
 
 ### Links
 
-- Solution URL: [Github Repo]()
-- Live Site URL: [Live Site]()
+- Solution URL: [Github Repo](https://github.com/ayearicks/profile-card-component-main)
+- Live Site URL: [Live Site](https://yearicks.dev/profile-card-component-main)
 
 
 
